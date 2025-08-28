@@ -8,7 +8,7 @@ With hands-on experience in **Java (8–21)**, **Spring Boot**, **Microservices*
 ### 🔹 Tech Stack
 - **Languages:** Java, SQL, JavaScript  
 - **Backend:** Spring Boot, Microservices, Hibernate, JPA  
-- **Frontend:** Angular, React (basic)  
+- **Frontend:** React  
 - **DevOps Tools:** Jenkins, Docker, Git, Maven  
 - **Databases:** MySQL, PostgreSQL  
 - **Other:** Kafka, HashiCorp Vault, REST APIs, ZK Framework  
