@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Aamir
 
-💻 **Java Backend Developer | Spring Boot | Microservices | Cloud Enthusiast**
+💻 **Java Backend Developer | Spring Boot | Microservices **
 
 I'm passionate about building scalable backend systems and solving real-world problems through clean, efficient code.  
 With hands-on experience in **Java (8–21)**, **Spring Boot**, **Microservices**, **REST APIs**, **Angular/React**, and **Jenkins CI/CD**, I enjoy working on enterprise-grade applications and modern software architectures.  
